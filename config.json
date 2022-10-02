@@ -1,0 +1,7 @@
+{
+  "screen": {
+    "title": "Waiting In Line",
+    "resolution": (500,500),
+    "fps": 60,
+  },
+}
